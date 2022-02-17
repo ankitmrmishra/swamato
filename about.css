@@ -39,7 +39,8 @@ color: rgb(240, 243, 239);
 }
 
 .getstarted{
-    font-size: 3rem; font-size: 3rem;
+    
+    font-size: 2rem; 
     font-family: 'poppins' , sans-serif;
     font-weight: bold;
     display: inline-block;
