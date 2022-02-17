@@ -73,6 +73,7 @@ button{
 
 @media screen  and (max-width: 1000px) {
 .about-section{
+    box-shadow: 0%;
     display: inline;
 }
 
