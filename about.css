@@ -73,7 +73,7 @@ button{
 
 @media screen  and (max-width: 1000px) {
 .about-section{
-    box-shadow: 0px;
+    
     display: inline;
 }
 
@@ -84,6 +84,11 @@ input{
 textarea{
     width: 100%;
 }
-
+.about-us{
+    box-shadow: none;
+}
+.your-feedback{
+    box-shadow: none;
+}
 
 }
