@@ -1,0 +1,17 @@
+#footer{
+    background-color: black;
+    text-align: center;
+    padding: 1rem;
+}
+.copy{
+    margin: 2rem 0;
+    color: white;
+   
+}
+.coder{
+    color: white;
+    margin: 2rem 0;
+}
+.social-media a{
+    padding: 1rem;
+}
