@@ -1,0 +1,33 @@
+@media screen  and (max-width: 1000px) {
+    .flex-container{
+        display: grid;
+        grid-template-columns: 1fr;
+     
+    }
+    .column-introduction h1{
+       
+        font-size: 3rem;
+    }
+    .column-introduction p{
+        font-size: 1rem;
+        color: rgba(128, 128, 128, 0.562);
+    }
+    .column-intro-image img{
+        height: 90%;
+      
+    }
+.nav-items{
+    display: none;
+}
+
+.cuisine-item img{
+    width: 100%;
+
+}
+   
+   }
+ 
+ 
+ 
+   
+     
