@@ -4,6 +4,7 @@
 
 
 .about-section{
+    overflow: hidden;
     padding: 3rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
