@@ -57,6 +57,7 @@ color: rgb(240, 243, 239);
 
 input{
     font-size: 2rem;
+    width: 100%;
 margin-bottom: 2rem;
 }
 button{
