@@ -5,7 +5,7 @@ this a website created using only html and css. no framework or pre-processor is
 
 [GITHUB PAGE LINK](https://ankitmrmishra.github.io/swamato/)
 
-TECH USED 
+# TECH USED 
 1. HTML
 2. CSS
 
